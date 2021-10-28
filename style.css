@@ -1,0 +1,21 @@
+body{
+    background-color: red
+}
+h1{
+    color:blue;
+    font-family:'Press Start 2P', cursive;
+    text-align:center;
+    font-size: 50pt
+}
+a:link  {
+    color:blue;
+}
+p1 {
+  font-family:font-family: 'Henny Penny', cursive; 
+}
+div{
+    width: 500px;
+  background-color:red         padding:0px 0px 0px 0px; /*top right bottom */
+  border-style:solid;
+    margin:=0px 0px 0px 0px
+}
